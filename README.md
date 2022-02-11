@@ -1,4 +1,4 @@
-# Go to BSoD
+# Go-to-BSoD
 
 ### Do you want to go to Blue Screen of Death?
 
@@ -25,7 +25,7 @@ If you used this program or above-mentioned commands to go to BSoD,You can resta
 
 ### 你想要让你的电脑蓝屏吗?
 
-[en-us](#Go to BSoD)
+[en-us](#Go-to-BSoD)
 
 这个程序可以帮助你使你的电脑蓝屏。
 
