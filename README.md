@@ -38,7 +38,7 @@ If you used this program or above-mentioned commands to go to BSoD,You should re
 > - Windows 10 / 11:  taskkill -f -im svchost.exe
 > - Windows Vista / 7:  taskkill -f -im wininit.exe
 > - Windows XP:  cmd /c start /min ntsd -c q -pn winlogon.exe 1>nul 2>nul
-> - Other:  Unknow
+> - 其他操作系统: 未知
 
 这个程序只能在Windows操作系统中运行, 而且它不能在Windows XP或更老的操作系统中运行。
 
