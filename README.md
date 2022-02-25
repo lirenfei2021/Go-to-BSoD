@@ -1,5 +1,7 @@
 # Go-to-BSoD
 
+***x64 only!!!***
+
 ### Do you want to go to Blue Screen of Death?
 
 [简体中文版](#让你的电脑蓝屏)
@@ -22,6 +24,8 @@ If you used this program or above-mentioned commands to go to BSoD,You can resta
 
 
 # 让你的电脑蓝屏
+
+***仅限64位操作系统！！！***
 
 ### 你想要让你的电脑蓝屏吗?
 
