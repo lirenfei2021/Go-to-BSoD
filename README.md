@@ -17,7 +17,7 @@ If you want to go to BSoD without this program, please run cmd.exe as an Adminis
 
 This program can only run in Windows. And it cannot run in Windows XP or earlier.
 
-If you used this program or above-mentioned commands to go to BSoD,You can restart the computer to get away from the BSoD.
+If you used this program or above-mentioned commands to go to BSoD,You should restart the computer to get away from the BSoD.
 
 
 
